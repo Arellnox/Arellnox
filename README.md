@@ -1,4 +1,4 @@
-![My Banner](https://github.com/ArelleNox/ArelleNox/blob/main/banner2.png?raw=true)
+![My Banner](https://github.com/Arellnox/Arellnox/blob/main/banner2.png?raw=true)
 
 ## Who am I
 **Gameplay AI Programmer - C++ | C# | Unreal Engine | Unity**  
