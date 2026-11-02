@@ -1,36 +1,31 @@
 ![My Banner](https://github.com/Arellnox/Arellnox/blob/main/banner2.png?raw=true)
 
-## Who am I
-**Gameplay AI Programmer - C++ | C# | Unreal Engine | Unity**  
+## 🎮 Who I Am
+
+**Gameplay AI Programmer — C++ | C# | Unreal Engine | Unity**  
 *Architecting autonomous agent intelligence, combat behaviors, and responsive decision-making pipelines integrated into core gameplay loops.*
 
 My goal is straightforward: master Gameplay AI architecture at a deep technical level, building scalable systems that bridge intelligent agent behavior with responsive gameplay mechanics.
 
 ---
 
-##  Focus & Engine Workflows
+## ⚡ Focus & Engine Workflows
 
 Work spans both **Unreal Engine (C++)** and **Unity (C#)**, with a strict emphasis on performance, scalability, and technical clarity.
 
-###  Gameplay AI & Decision Systems
+### 🧠 Gameplay AI & Decision Systems
 - **Agent Intelligence:** Behavior trees, finite state machines (FSM), and utility decision frameworks.
 - **Perception & Navigation:** Sensing pipelines (sight/sound), pathfinding integration, and target selection.
 - **Combat & Interaction Loops:** Reactive agent decision-making, state-driven combat logic, and tactical spatial awareness.
 
-###  Engine Systems & Architecture
+### 🧩 Engine Systems & Architecture
 - **Engine Mechanics:** Data-driven setups, modular gameplay architecture, and C++/C# interaction loops.
 - **Scalable Codebases:** Systems-first, decoupled design patterns built for clean refactoring and iteration.
 - **Performance & Debugging:** Profiling agent decision loops, memory-conscious execution, and clean system optimization.
 
 ---
 
-##  How I Work
-
-- **Systems-First Mindset:** Building decoupled, reusable modules over one-off feature scripts.
-- **Engine-Aware Engineering:** Writing clean C++ and C# that scale efficiently under heavy agent loads.
-- **Product-Driven Execution:** Architecting codebases to remain readable, maintainable, and robust.
-
-##  Tech Stack  
+## 🛠 Tech Stack
 
 **Languages & Engines**  
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white) 
@@ -46,4 +41,13 @@ Work spans both **Unreal Engine (C++)** and **Unity (C#)**, with a strict emphas
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Perforce](https://img.shields.io/badge/-Perforce-000000?style=flat&logo=perforce&logoColor=white) 
 ![Rider](https://img.shields.io/badge/-JetBrains%20Rider-000000?style=flat&logo=rider&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## ⚙️ How I Work
+
+- **Systems-First Mindset:** Building decoupled, reusable modules over one-off feature scripts.
+- **Engine-Aware Engineering:** Writing clean C++ and C# that scale efficiently under heavy agent loads.
+- **Product-Driven Execution:** Architecting codebases to remain readable, maintainable, and robust.
